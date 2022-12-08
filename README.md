@@ -1,3 +1,3 @@
 # alura-books
 
-Para ver o projeto em produção clique aqui [Link](https://alura-books-black.vercel.app/)
+Para ver o projeto em produção [clique aqui](https://alura-books-black.vercel.app/)
